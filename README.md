@@ -17,18 +17,21 @@ In this case study, you will use EDA to understand how consumer attributes and l
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Loans applied for 60 months term default more often than 30 months.
+ High grade loans don’t default much, hence the grading system is
+robust.
+ Loans applied for small business and renewable energy default more
+often. Need to take sufficient precaution.
+ Loans applied from few states like NV, AK and TN have high Default Rate.
+Need to take some actionable steps to avoid such incidents in future.
+ Loans applied for very high amount tend to incur more interest rates
+and hence higher default rate.
+ Need to scrutinize the process while approving loans to borrowers with
+derogatory public records, bankruptcy records, high credit inquiries,
+records of delinquencies and high rate of revolving credit line utilisation
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
