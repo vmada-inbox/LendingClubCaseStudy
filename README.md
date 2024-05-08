@@ -21,41 +21,15 @@ In this case study, you will use EDA to understand how consumer attributes and l
 
 ## Conclusions
 - Loans applied for 60 months term default more often than 30 months.
- High grade loans don’t default much, hence the grading system is
+- High grade loans don’t default much, hence the grading system is
 robust.
- Loans applied for small business and renewable energy default more
+- Loans applied for small business and renewable energy default more
 often. Need to take sufficient precaution.
- Loans applied from few states like NV, AK and TN have high Default Rate.
+- Loans applied from few states like NV, AK and TN have high Default Rate.
 Need to take some actionable steps to avoid such incidents in future.
- Loans applied for very high amount tend to incur more interest rates
+- Loans applied for very high amount tend to incur more interest rates
 and hence higher default rate.
- Need to scrutinize the process while approving loans to borrowers with
+- Need to scrutinize the process while approving loans to borrowers with
 derogatory public records, bankruptcy records, high credit inquiries,
 records of delinquencies and high rate of revolving credit line utilisation
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
